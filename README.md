@@ -87,21 +87,6 @@ Automation using microcontrollers
 
 📱 IoT Dashboard
 
-▶️ How to Run the Project
-# Install Arduino IDE
-
-# Install required libraries
-DHT sensor library
-ESP8266 WiFi library
-
-# Connect Hardware
-DHT Sensor → NodeMCU
-Relay Module → Heater
-Fan → Relay
-
-# Upload Code
-Open Arduino IDE
-Select NodeMCU Board
 Upload the program
 
 # Monitor Data
